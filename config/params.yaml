@@ -1,0 +1,3 @@
+template_node:
+  ros__parameters:
+    template_parameter: 5 
